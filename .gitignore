@@ -1,0 +1,10 @@
+*.swp
+*.hex
+*.lst
+*.o
+*.out
+*.out.map
+.*.mscz
+by_name/
+by_case/
+pdfs/
