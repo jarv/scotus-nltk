@@ -1,0 +1,4 @@
+1) See http://jarv.org/2012/02/a-text-analysis-of-supreme-court-oral-arguments/
+2) untar by_case and by_name for the oral transcript corpus data.
+( alternatively using the process-scotus-pdfs.py script you can generate the parsed data from txt files converted from pdfs. )
+3) run stats.py
